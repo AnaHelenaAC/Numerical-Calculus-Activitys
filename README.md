@@ -4,7 +4,7 @@ Este repositório é um portfólio de atividades práticas e implementações de
 
 ---
 
-## 🗂️ Índice de Atividades
+## 🖩 Índice de Atividades
 
 Abaixo estão listados os projetos e módulos desenvolvidos ao longo da disciplina:
 
@@ -19,6 +19,6 @@ Implementação matemática em **Java** para a conversão bidirecional entre bas
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🖩 Tecnologias Utilizadas
 *   **Linguagem:** Java (Atividade 1)
 *   *(Outras linguagens ou ferramentas serão adicionadas conforme o avanço da disciplina)*
