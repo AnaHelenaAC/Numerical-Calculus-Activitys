@@ -75,7 +75,7 @@ public class Main {
         
         String statusComp = (numeroOriginal == deVoltaParaDec) ? "PASSOU |" : "FALHOU |";
         
-        System.out.println(statusComp + " Original: " + numeroOriginal + " -> Base " + base + ": " + emBase36 + " -> Voltou para Dec: " + deVoltaParaDec + "\n");
+        System.out.println(statusComp + " Base 10: " + numeroOriginal + " --> Base " + base + ": " + emBase36 + " --> Voltando para Base 10: " + deVoltaParaDec + "\n");
 
         scanner.close();
     }
