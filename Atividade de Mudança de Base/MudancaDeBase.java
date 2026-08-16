@@ -3,7 +3,7 @@ public class MudancaDeBase {
     private static final String SIMBOLOS = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     // --------------- Algoritmo 1: Base β para Base 10 (Decimal) ---------------
-    public static long paraDecimal(String numero, int beta) {
+    public static long BetaParaDecimal(String numero, int beta) {
         // Tratamento de acordo com as condições do enunciado (base [β] entre 2 e 36)
         if (beta < 2 || beta > 36) {
             throw new IllegalArgumentException("Base deve estar entre 2 e 36.");
@@ -50,7 +50,7 @@ public class MudancaDeBase {
     }
 
     // --------------- Algoritmo 2: Base 10 para Base β ---------------
-    public static String deDecimal(long n, int beta) {
+    public static String DecimalParaBeta(long n, int beta) {
         // Tratamento de acordo com as condições do enunciado (base [β] entre 2 e 36)
         if (beta < 2 || beta > 36) {
             throw new IllegalArgumentException("Base deve estar entre 2 e 36.");
