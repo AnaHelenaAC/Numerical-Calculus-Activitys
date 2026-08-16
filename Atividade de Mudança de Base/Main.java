@@ -65,7 +65,7 @@ public class Main {
         //---------------------------------------------------------
         // Sugestão da Seção 5, converter usando os mesmos números
 
-        System.out.println("\n------ Teste em Composição (Seção 5) ------");
+        System.out.println("\n------ Teste em Composição (Seçao 5) ------");
 
        long numeroOriginal = 1000;
         int base = 36;
